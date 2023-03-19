@@ -11,10 +11,10 @@ import Navbar from './Navbar';
 
 const styles = {
   headerStyle: {
-    background: 'red',
+    background: '#DAA520',
   },
   headingStyle: {
-    fontSize: '100px',
+    fontSize: '50px',
   },
 };
 

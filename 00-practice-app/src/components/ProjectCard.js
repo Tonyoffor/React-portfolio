@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 function ProjectCard({title, desc, img, gitlink, weblink}) {
   return (
-    <Card style={{ width: '18rem' }}>
+    <Card style={{ width: '30rem' }}>
       <Card.Img variant="top" src={require(`../${img}`)} />
       <Card.Body>
         <Card.Title>{title}</Card.Title>
